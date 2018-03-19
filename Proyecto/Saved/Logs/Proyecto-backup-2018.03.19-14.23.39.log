@@ -1,0 +1,1081 @@
+﻿Log file open, 03/19/18 09:46:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Proyecto
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1671767975) SRandInit(-1671767975).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.220069
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.19-08.46.31:097][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.19-08.46.31:097][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.19-08.46.31:127][  0]LogInit: Computer: DESKTOP-8SNKBL5
+[2018.03.19-08.46.31:127][  0]LogInit: User: SMC
+[2018.03.19-08.46.31:128][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.19-08.46.31:128][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.03.19-08.46.31:128][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.03.19-08.46.31:128][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.19-08.46.31:128][  0]LogMemory: Process Physical Memory: 272.50 MB used, 272.50 MB peak
+[2018.03.19-08.46.31:128][  0]LogMemory: Process Virtual Memory: 270.01 MB used, 270.01 MB peak
+[2018.03.19-08.46.31:128][  0]LogMemory: Physical Memory: 3159.61 MB used,  4953.11 MB free, 8112.72 MB total
+[2018.03.19-08.46.31:128][  0]LogMemory: Virtual Memory: 644.60 MB used,  4953.11 MB free, 134217728.00 MB total
+[2018.03.19-08.46.31:363][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.03.19-08.46.31:363][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.03.19-08.46.32:012][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.19-08.46.32:400][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.19-08.46.32:469][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.03.19-08.46.32:470][  0]LogD3D11RHI:       2009/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.19-08.46.32:485][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.03.19-08.46.32:485][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.19-08.46.32:487][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.19-08.46.32:487][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.19-08.46.32:487][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.19-08.46.32:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.19-08.46.32:493][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.03.19-08.46.32:493][  0]LogWindows: EnumDisplayDevices:
+[2018.03.19-08.46.32:494][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.03.19-08.46.32:494][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.19-08.46.32:494][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.19-08.46.32:494][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.19-08.46.32:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.03.19-08.46.32:494][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.19-08.46.32:494][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.19-08.46.32:494][  0]LogRHI: Texture pool is 1406 MB (70% of 2009 MB)
+[2018.03.19-08.46.32:537][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.19-08.46.32:550][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.19-08.46.32:552][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Intermediate/Shaders/WorkingDirectory/6564/).
+[2018.03.19-08.46.32:552][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SMC/AppData/Local/Temp/UnrealShaderWorkingDir/252C8FA64A37839285319CB647B97001/'.
+[2018.03.19-08.46.32:552][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.19-08.46.34:020][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.19-08.46.34:104][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.19-08.46.34:188][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.19-08.46.34:274][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.19-08.46.34:358][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.19-08.46.34:442][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.19-08.46.34:527][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.19-08.46.34:611][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.19-08.46.34:684][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.19-08.46.34:769][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.19-08.46.34:856][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.19-08.46.34:938][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.19-08.46.35:020][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.19-08.46.35:102][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.19-08.46.35:266][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.19-08.46.35:266][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.19-08.46.35:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.19-08.46.35:413][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.19-08.46.35:546][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.19-08.46.35:591][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.19-08.46.35:674][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.19-08.46.35:756][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.19-08.46.35:841][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.19-08.46.35:928][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.19-08.46.35:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.19-08.46.36:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.19-08.46.36:775][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.19-08.46.36:805][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.19-08.46.36:817][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SMC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.19-08.46.36:833][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.19-08.46.36:833][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.19-08.46.36:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.19-08.46.36:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.19-08.46.37:432][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.19-08.46.37:956][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.19-08.46.38:027][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.19-08.46.38:027][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.19-08.46.38:027][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.19-08.46.38:027][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.19-08.46.38:027][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.19-08.46.38:065][  0]LogNetVersion: Proyecto , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1292859624)
+[2018.03.19-08.46.38:308][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.03.19-08.46.39:043][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.054022 seconds
+[2018.03.19-08.46.39:052][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.19-08.46.39:052][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.03.19-08.46.39:052][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.19-08.46.39:140][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.19-08.46.43:404][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.19-08.46.43:463][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.19-08.46.44:503][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.19-08.46.45:178][  0]SourceControl: Source control is disabled
+[2018.03.19-08.46.45:178][  0]SourceControl: Source control is disabled
+[2018.03.19-08.46.45:261][  0]SourceControl: Source control is disabled
+[2018.03.19-08.46.45:344][  0]SourceControl: Source control is disabled
+[2018.03.19-08.46.46:651][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.19-08.46.47:088][  0]LogOcInput: OculusInput pre-init called
+[2018.03.19-08.46.47:539][  0]LogEngine: Initializing Engine...
+[2018.03.19-08.46.47:542][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.19-08.46.47:874][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.19-08.46.47:874][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.19-08.46.48:080][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.19-08.46.48:091][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-08.46.48:232][  0]LogInit: FAudioDevice initialized.
+[2018.03.19-08.46.48:345][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.19-08.46.48:380][  0]LogInit: Texture streaming: Enabled
+[2018.03.19-08.46.48:543][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.19-08.46.48:755][  0]LogInit: Transaction tracking system initialized
+[2018.03.19-08.46.49:258][  0]BlueprintLog: New page: Editor Load
+[2018.03.19-08.46.50:686][  0]LocalizationService: Localization service is disabled
+[2018.03.19-08.46.51:870][  0]LogConsoleResponse: Display: 
+[2018.03.19-08.46.52:150][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.19-08.46.52:150][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.19-08.46.52:150][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.19-08.46.53:165][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/' took 0.05s
+[2018.03.19-08.46.54:023][  0]SourceControl: Source control is disabled
+[2018.03.19-08.46.54:023][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.19-08.46.54:023][  0]LightingResults: New page: Lighting Build
+[2018.03.19-08.46.54:093][  0]MapCheck: New page: Map Check
+[2018.03.19-08.46.54:093][  0]LightingResults: New page: Lighting Build
+[2018.03.19-08.46.57:696][  0]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-08.47.00:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.19-08.47.00:528][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.19-08.47.00:617][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.462ms to complete.
+[2018.03.19-08.47.00:617][  0]LogFileHelpers: Loading map 'Mapa' took 6.594
+[2018.03.19-08.47.00:690][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.19-08.47.00:870][  0]LogCollectionManager: Loaded 0 collections in 0.002607 seconds
+[2018.03.19-08.47.01:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Collections/' took 0.01s
+[2018.03.19-08.47.01:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Developers/SMC/Collections/' took 0.01s
+[2018.03.19-08.47.01:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Collections/' took 0.01s
+[2018.03.19-08.47.01:013][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.19-08.47.01:029][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2363 classes and 519 folders.
+[2018.03.19-08.47.01:136][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.19-08.47.01:672][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.19-08.47.01:749][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.19-08.47.01:813][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.19-08.47.01:816][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.19-08.47.01:831][  0]LogSlate: Took 0.007040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.19-08.47.02:095][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.19-08.47.02:375][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.19-08.47.02:375][  0]LogLoad: (Engine Initialization) Total time: 34.84 seconds
+[2018.03.19-08.47.02:375][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.19-08.47.02:375][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.19-08.47.02:375][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.19-08.47.02:411][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.19-08.47.02:490][  0]LogSlate: Took 0.007390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-08.47.02:873][  4]LogAssetRegistry: Asset discovery search completed in 24.5869 seconds
+[2018.03.19-08.47.02:879][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.19-08.47.02:879][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.03.19-08.48.36:364][597]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-08.48.36:965][597]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.03.19-08.48.38:032][597]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.19-08.48.38:213][597]LogSlate: Took 0.008581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.19-08.53.06:779][577]LogSlate: Took 0.010698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.19-08.53.45:825][720]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.19-08.54.17:680][553]BlueprintLog: New page: Compile Maestro
+[2018.03.19-08.54.18:691][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-08.54.18:830][577]LogSavePackage: Save=105.05ms
+[2018.03.19-08.54.18:830][577]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroDB8547FC4C5B23E8AF9A08B8BB8C72E6.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-08.54.18:839][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-08.56.53:472][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-08.56.53:580][829]LogSavePackage: Save=92.02ms
+[2018.03.19-08.56.53:580][829]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro04DF4D9C4849B615ECC1B19289C909BA.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-08.56.53:589][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-08.57.30:139][954]BlueprintLog: New page: Compile Maestro
+[2018.03.19-08.57.31:134][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-08.57.31:254][979]LogSavePackage: Save=107.60ms
+[2018.03.19-08.57.31:254][979]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro62B02A094D52BD6CF4CA1EA1FAC0721E.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-08.57.31:259][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-08.59.14:084][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 0.027
+[2018.03.19-08.59.14:088][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NUESTRO/BLUEPRINTS/Maestro] ([1] browsable assets)...
+[2018.03.19-08.59.14:088][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/NUESTRO/BLUEPRINTS/Maestro]
+[2018.03.19-08.59.14:198][103]LogSavePackage: Save=93.68ms
+[2018.03.19-08.59.14:198][103]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro_Auto159A5E00F462161ADE81C81A90E70B67C.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto1.uasset'
+[2018.03.19-08.59.14:201][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto1.uasset
+[2018.03.19-08.59.14:201][103]LogFileHelpers: Auto-saving content packages took 0.115
+[2018.03.19-09.01.20:132][508]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.01.21:119][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.01.21:259][530]LogSavePackage: Save=110.11ms
+[2018.03.19-09.01.21:259][530]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro8CF609FC4B3E79BC86FCE3B4499F154E.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.01.21:264][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.03.41:579][659]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.03.42:499][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.03.42:630][678]LogSavePackage: Save=115.48ms
+[2018.03.19-09.03.42:630][678]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro7D3E93F144B6C031D6C451BA68FBCC83.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.03.42:641][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.04.03:628][866]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.04.04:834][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.04.04:961][902]LogSavePackage: Save=116.18ms
+[2018.03.19-09.04.04:962][902]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro080AB67B4996568347B0F98E88A5891B.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.04.04:966][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.04.50:318][590]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.04.51:293][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.04.51:426][613]LogSavePackage: Save=121.49ms
+[2018.03.19-09.04.51:426][613]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroD1BB58D94068009AFCE16594B4E444DB.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.04.51:430][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.05.56:814][365]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.05.57:891][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.05.58:039][394]LogSavePackage: Save=129.96ms
+[2018.03.19-09.05.58:039][394]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro7A7F31B143420F24763E3DBF79FCA14D.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.05.58:043][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.09.14:504][ 86]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 0.030
+[2018.03.19-09.09.14:506][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NUESTRO/BLUEPRINTS/Maestro] ([1] browsable assets)...
+[2018.03.19-09.09.14:527][ 86]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NUESTRO/BLUEPRINTS/Maestro.Maestro]
+[2018.03.19-09.09.14:527][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/NUESTRO/BLUEPRINTS/Maestro]
+[2018.03.19-09.09.14:683][ 86]LogSavePackage: Save=130.08ms
+[2018.03.19-09.09.14:683][ 86]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro_Auto21AB1600A46354334EA184A86D8405931.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto2.uasset'
+[2018.03.19-09.09.14:685][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto2.uasset
+[2018.03.19-09.09.14:686][ 86]LogFileHelpers: Auto-saving content packages took 0.181
+[2018.03.19-09.20.20:905][816]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 0.032
+[2018.03.19-09.20.20:907][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NUESTRO/BLUEPRINTS/Maestro] ([1] browsable assets)...
+[2018.03.19-09.20.20:941][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NUESTRO/BLUEPRINTS/Maestro.Maestro]
+[2018.03.19-09.20.20:941][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/NUESTRO/BLUEPRINTS/Maestro]
+[2018.03.19-09.20.21:121][816]LogSavePackage: Save=151.20ms
+[2018.03.19-09.20.21:121][816]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro_Auto3DB974D5C43C7D32F24B44E8AD8C60F08.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto3.uasset'
+[2018.03.19-09.20.21:124][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/BLUEPRINTS/Maestro_Auto3.uasset
+[2018.03.19-09.20.21:124][816]LogFileHelpers: Auto-saving content packages took 0.218
+[2018.03.19-09.24.41:394][121]LogSlate: Took 0.008107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.19-09.26.18:639][385]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.26.33:621][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.26.33:808][239]LogSavePackage: Save=158.00ms
+[2018.03.19-09.26.33:808][239]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroC39B537F413C298DD7ECF2AC1239F8D8.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.26.33:814][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.26.34:468][278]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.26.37:452][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.26.37:617][420]LogSavePackage: Save=154.50ms
+[2018.03.19-09.26.37:617][420]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro7B19493F4B12D861DCEE289E95511DDC.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.26.37:620][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.28.57:935][248]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.30.12:678][ 27]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.30.14:326][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.30.14:521][ 88]LogSavePackage: Save=179.47ms
+[2018.03.19-09.30.14:521][ 88]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro05A2FE824DDD4C686A62248C274875CA.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.30.14:532][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.30.35:869][310]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.30.36:864][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.30.37:060][331]LogSavePackage: Save=182.07ms
+[2018.03.19-09.30.37:060][331]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroA99FCDFC4A9EA430D2BDA5998751CBDD.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.30.37:065][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.30.50:492][113]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.30.51:452][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.30.51:659][132]LogSavePackage: Save=196.74ms
+[2018.03.19-09.30.51:659][132]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroDF769DDD4CE18DDFEE59E7A9FB878A6F.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.30.51:665][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.31.03:324][794]Cmd: TRANSACTION UNDO
+[2018.03.19-09.31.03:324][794]LogEditorTransaction: Undo Move Actors
+[2018.03.19-09.31.03:935][828]Cmd: TRANSACTION UNDO
+[2018.03.19-09.31.03:935][828]LogEditorTransaction: Undo Create Actors
+[2018.03.19-09.31.08:225][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.31.08:489][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.31.08:494][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.31.08:498][ 74]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:31:08 AM)
+[2018.03.19-09.31.08:504][ 74]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.31.08:549][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045914s)
+[2018.03.19-09.31.08:551][ 74]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.31.08:551][ 74]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2018.03.19-09.31.08:552][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.048142s)
+[2018.03.19-09.31.08:582][ 74]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.31.08:663][ 74]LogInit: FAudioDevice initialized.
+[2018.03.19-09.31.08:725][ 74]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.31.08:739][ 74]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.31.08
+[2018.03.19-09.31.08:745][ 74]LogWorld: Bringing up level for play took: 0.015584
+[2018.03.19-09.31.08:823][ 74]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.03.19-09.31.08:848][ 74]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.433
+[2018.03.19-09.31.08:849][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.31.08:925][ 74]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.19-09.31.32:055][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.31.32:136][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.32.59:311][797]LogSavePackage: Save=1106.47ms
+[2018.03.19-09.32.59:311][797]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_Auto4B8E48E5F41B45F79D8AF428F6430CA30.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto4.umap'
+[2018.03.19-09.32.59:314][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto4.umap
+[2018.03.19-09.32.59:319][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 1.174
+[2018.03.19-09.32.59:319][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.174
+[2018.03.19-09.33.08:632][336]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.33.09:853][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.33.10:058][356]LogSavePackage: Save=186.32ms
+[2018.03.19-09.33.10:058][356]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro9F2636604BB35FF549B7BAB60E58B58D.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.33.10:063][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.33.12:519][503]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.33.12:572][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.33.12:573][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.33.12:573][503]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:33:12 AM)
+[2018.03.19-09.33.12:573][503]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.33.12:617][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043963s)
+[2018.03.19-09.33.12:618][503]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.33.12:618][503]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2018.03.19-09.33.12:619][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.045446s)
+[2018.03.19-09.33.12:646][503]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.33.12:725][503]LogInit: FAudioDevice initialized.
+[2018.03.19-09.33.12:770][503]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.33.12:783][503]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.33.12
+[2018.03.19-09.33.12:785][503]LogWorld: Bringing up level for play took: 0.014572
+[2018.03.19-09.33.12:811][503]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.47
+[2018.03.19-09.33.12:811][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.34.03:849][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.34.03:926][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.35.11:656][324]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.35.12:986][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.35.13:188][353]LogSavePackage: Save=185.53ms
+[2018.03.19-09.35.13:188][353]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro7E98B21B458AEBFC2399F4AB4BE5C76C.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.35.13:193][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.35.38:595][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/QuestDT" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/QuestDT.uasset" SILENT=true
+[2018.03.19-09.35.38:622][867]LogSavePackage: Save=8.70ms
+[2018.03.19-09.35.38:622][867]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/QuestDT78CFCA88483424A14029FCAABBDB5405.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/QuestDT.uasset'
+[2018.03.19-09.35.38:628][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/QuestDT.uasset
+[2018.03.19-09.35.41:511][ 24]EditorErrors: New page: Socket Clicked
+[2018.03.19-09.35.43:485][142]EditorErrors: New page: Socket Clicked
+[2018.03.19-09.35.43:894][166]EditorErrors: New page: Socket Clicked
+[2018.03.19-09.35.47:226][365]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.19-09.35.47:986][405]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.19-09.35.48:353][424]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2018.03.19-09.35.48:612][438]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.19-09.35.48:985][457]EditorErrors: New page: Socket Clicked
+[2018.03.19-09.35.48:986][457]EditorErrors: Error: Cannot attach static actor Landscape to dynamic actor Maestro.
+[2018.03.19-09.35.49:370][478]EditorErrors: New page: Socket Clicked
+[2018.03.19-09.35.49:371][478]EditorErrors: Error: Cannot attach static actor Landscape to dynamic actor Maestro.
+[2018.03.19-09.35.52:282][645]LogEditorActor: Deleted Actor: Maestro_C
+[2018.03.19-09.35.52:309][645]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.03.19-09.35.57:397][933]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.35.57:443][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.35.57:444][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.35.57:444][933]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:35:57 AM)
+[2018.03.19-09.35.57:444][933]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.35.57:485][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040595s)
+[2018.03.19-09.35.57:486][933]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.35.57:486][933]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.03.19-09.35.57:486][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.042015s)
+[2018.03.19-09.35.57:515][933]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.35.57:594][933]LogInit: FAudioDevice initialized.
+[2018.03.19-09.35.57:640][933]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.35.57:650][933]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.35.57
+[2018.03.19-09.35.57:651][933]LogWorld: Bringing up level for play took: 0.009730
+[2018.03.19-09.35.57:665][933]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa 0.384
+[2018.03.19-09.35.57:665][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.36.27:803][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.36.27:874][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.36.28:953][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-09.36.30:024][795]LogSavePackage: Save=1035.17ms
+[2018.03.19-09.36.30:024][795]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa4FE5A8E24B9615EAE1F53980000645B2.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.03.19-09.36.30:030][795]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.03.19-09.36.30:103][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa_BuiltData" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset" SILENT=true
+[2018.03.19-09.36.31:789][795]LogSavePackage: Save=1596.50ms
+[2018.03.19-09.36.31:789][795]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_BuiltData59F2C96C423B2884D9128D9BE570BC97.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset'
+[2018.03.19-09.36.31:794][795]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset
+[2018.03.19-09.37.55:253][109]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.37.56:433][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.37.56:647][129]LogSavePackage: Save=199.37ms
+[2018.03.19-09.37.56:648][129]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro1E547C8D4A946128AB207DA272DFDB87.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.37.56:653][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.37.58:884][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.37.58:942][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.37.58:942][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.37.58:942][261]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:37:58 AM)
+[2018.03.19-09.37.58:943][261]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.37.58:986][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042321s)
+[2018.03.19-09.37.58:987][261]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.37.58:987][261]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2018.03.19-09.37.58:987][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.043788s)
+[2018.03.19-09.37.59:015][261]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.37.59:094][261]LogInit: FAudioDevice initialized.
+[2018.03.19-09.37.59:139][261]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.37.59:148][261]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.37.59
+[2018.03.19-09.37.59:149][261]LogWorld: Bringing up level for play took: 0.009792
+[2018.03.19-09.37.59:165][261]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.116
+[2018.03.19-09.37.59:166][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.38.23:038][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.38.23:119][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.38.24:617][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-09.38.25:692][771]LogSavePackage: Save=1024.70ms
+[2018.03.19-09.38.25:692][771]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa8F897B12443BD00437A7BCAA4AB689A5.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.03.19-09.38.25:698][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.03.19-09.38.25:760][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa_BuiltData" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset" SILENT=true
+[2018.03.19-09.38.26:940][771]LogSavePackage: Save=1169.89ms
+[2018.03.19-09.38.26:940][771]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_BuiltData009DD30142C12AE57A7325B724055407.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset'
+[2018.03.19-09.38.26:945][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset
+[2018.03.19-09.40.31:528][830]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.40.32:745][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.40.32:961][855]LogSavePackage: Save=194.05ms
+[2018.03.19-09.40.32:961][855]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro86533C6E450E7AB5CBA32BBF0A123975.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.40.32:966][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.40.46:135][593]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.40.47:290][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.40.47:498][615]LogSavePackage: Save=197.73ms
+[2018.03.19-09.40.47:498][615]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro47F1F96C479FB0DA5C00C9AA6110542C.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.40.47:503][615]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.40.49:795][752]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.40.49:858][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.40.49:858][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.40.49:858][752]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:40:49 AM)
+[2018.03.19-09.40.49:859][752]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.40.49:911][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052468s)
+[2018.03.19-09.40.49:912][752]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.40.49:913][752]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2018.03.19-09.40.49:913][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.054009s)
+[2018.03.19-09.40.49:942][752]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.40.50:028][752]LogInit: FAudioDevice initialized.
+[2018.03.19-09.40.50:077][752]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.40.50:089][752]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.40.50
+[2018.03.19-09.40.50:090][752]LogWorld: Bringing up level for play took: 0.011308
+[2018.03.19-09.40.50:106][752]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa 0.824
+[2018.03.19-09.40.50:106][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.41.10:237][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.41.10:311][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.41.11:781][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-09.41.12:877][ 38]LogSavePackage: Save=1056.50ms
+[2018.03.19-09.41.12:877][ 38]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa00BE2FAC4F85D5690DA5AF9632DB4F3D.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.03.19-09.41.12:883][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.03.19-09.41.12:949][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa_BuiltData" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset" SILENT=true
+[2018.03.19-09.41.14:163][ 38]LogSavePackage: Save=1203.45ms
+[2018.03.19-09.41.14:163][ 38]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_BuiltData7C9231264474F339EBC4418695F0FACA.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset'
+[2018.03.19-09.41.14:169][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset
+[2018.03.19-09.42.12:065][ 54]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.42.12:101][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.42.12:102][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.42.12:102][ 54]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:42:12 AM)
+[2018.03.19-09.42.12:102][ 54]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.42.12:145][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042134s)
+[2018.03.19-09.42.12:146][ 54]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.42.12:146][ 54]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2018.03.19-09.42.12:146][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.043749s)
+[2018.03.19-09.42.12:174][ 54]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.42.12:253][ 54]LogInit: FAudioDevice initialized.
+[2018.03.19-09.42.12:308][ 54]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.42.12:319][ 54]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.42.12
+[2018.03.19-09.42.12:319][ 54]LogWorld: Bringing up level for play took: 0.010508
+[2018.03.19-09.42.12:338][ 54]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa 1.057
+[2018.03.19-09.42.12:339][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.42.22:503][658]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.42.22:599][658]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.42.51:293][256]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.42.53:436][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.42.53:649][327]LogSavePackage: Save=196.57ms
+[2018.03.19-09.42.53:649][327]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro6CCDA46846FF3FAA6C74788FE8BF7EED.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.42.53:654][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.42.56:613][488]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.42.56:678][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.42.56:678][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.42.56:678][488]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:42:56 AM)
+[2018.03.19-09.42.56:679][488]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.42.56:719][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039772s)
+[2018.03.19-09.42.56:719][488]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.42.56:720][488]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.03.19-09.42.56:720][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.041174s)
+[2018.03.19-09.42.56:748][488]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.42.56:826][488]LogInit: FAudioDevice initialized.
+[2018.03.19-09.42.56:873][488]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.42.56:882][488]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.42.56
+[2018.03.19-09.42.56:883][488]LogWorld: Bringing up level for play took: 0.009106
+[2018.03.19-09.42.56:898][488]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.383
+[2018.03.19-09.42.56:898][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.43.48:512][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.43.48:591][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.44.48:515][813]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.44.49:817][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.44.50:031][842]LogSavePackage: Save=200.57ms
+[2018.03.19-09.44.50:031][842]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro2EF0288345526C6550BA36A3C33281F1.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.44.50:036][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.47.32:708][518]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.47.33:904][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.47.34:139][537]LogSavePackage: Save=206.53ms
+[2018.03.19-09.47.34:139][537]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro2BFE96DD4106EA9315FF40AE63E68C36.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.47.34:145][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.47.36:831][682]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.47.36:897][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.47.36:897][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.47.36:897][682]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:47:36 AM)
+[2018.03.19-09.47.36:898][682]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.47.36:938][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040516s)
+[2018.03.19-09.47.36:939][682]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.47.36:939][682]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2018.03.19-09.47.36:940][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.042045s)
+[2018.03.19-09.47.36:968][682]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.47.37:046][682]LogInit: FAudioDevice initialized.
+[2018.03.19-09.47.37:101][682]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.47.37:122][682]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.47.37
+[2018.03.19-09.47.37:124][682]LogWorld: Bringing up level for play took: 0.020194
+[2018.03.19-09.47.37:146][682]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.136
+[2018.03.19-09.47.37:146][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.47.46:505][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.47.46:581][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.47.48:162][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-09.47.49:258][327]LogSavePackage: Save=1044.31ms
+[2018.03.19-09.47.49:258][327]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa3B4B971B44FF9CDD48AFDE8408B6B5E2.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.03.19-09.47.49:264][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.03.19-09.47.49:326][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa_BuiltData" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset" SILENT=true
+[2018.03.19-09.47.50:530][327]LogSavePackage: Save=1165.24ms
+[2018.03.19-09.47.50:530][327]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_BuiltData0B085A0440084A2CC8BFFAB85319D8EC.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset'
+[2018.03.19-09.47.50:537][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset
+[2018.03.19-09.49.35:811][501]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.49.37:006][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.49.37:227][521]LogSavePackage: Save=206.63ms
+[2018.03.19-09.49.37:228][521]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro9B3B88314341418050F740AD768BD730.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.49.37:232][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.49.39:122][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-09.49.39:184][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.49.39:185][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-09.49.39:185][628]PIE: New page: PIE session: Mapa (Mar 19, 2018, 11:49:39 AM)
+[2018.03.19-09.49.39:185][628]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-09.49.39:226][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040784s)
+[2018.03.19-09.49.39:227][628]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-09.49.39:227][628]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.03.19-09.49.39:227][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.042228s)
+[2018.03.19-09.49.39:254][628]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-09.49.39:333][628]LogInit: FAudioDevice initialized.
+[2018.03.19-09.49.39:380][628]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-09.49.39:390][628]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-10.49.39
+[2018.03.19-09.49.39:391][628]LogWorld: Bringing up level for play took: 0.009793
+[2018.03.19-09.49.39:406][628]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa 0.125
+[2018.03.19-09.49.39:407][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.49.48:360][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.49.48:433][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-09.50.37:777][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.50.37:981][566]LogSavePackage: Save=190.14ms
+[2018.03.19-09.50.37:982][566]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro1AAC0BC3479249B2FC6B809C280CA7E5.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.50.37:985][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.51.40:950][873]LogClass: Warning: Property Misiones of Misiones has a struct type mismatch (tag InAppPurchaseProductRequest != prop Quest) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.03.19-09.51.43:435][992]LogClass: Warning: Type mismatch in Misiones of SKEL_Maestro_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.03.19-09.51.45:548][ 82]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.51.46:907][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.51.47:134][104]LogSavePackage: Save=211.67ms
+[2018.03.19-09.51.47:134][104]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroC467B13843A399566CF395B1526AA261.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.51.47:140][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.53.34:976][812]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.53.36:376][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.53.36:621][843]LogSavePackage: Save=222.11ms
+[2018.03.19-09.53.36:621][843]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro7C5E9CEB43E66FBEE1F635B83E144CB3.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.53.36:627][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.56.14:537][439]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.56.15:832][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.56.16:078][463]LogSavePackage: Save=231.20ms
+[2018.03.19-09.56.16:078][463]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro821FA74D4F9E8DE3E776CCB2FACC0A69.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.56.16:090][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.57.53:694][962]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.57.55:067][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.57.55:333][994]LogSavePackage: Save=253.67ms
+[2018.03.19-09.57.55:334][994]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Maestro617C88D14F08778AC166EB9CE9677454.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.57.55:339][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.59.10:636][789]BlueprintLog: New page: Compile Maestro
+[2018.03.19-09.59.12:009][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-09.59.12:281][818]LogSavePackage: Save=247.55ms
+[2018.03.19-09.59.12:281][818]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroF80BBE2B456FADCBF52A7DBDD0F8388B.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-09.59.12:286][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-09.59.43:957][165]LogSavePackage: Save=1083.48ms
+[2018.03.19-09.59.43:957][165]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_Auto50B08CD3D44C5EB79F3895E9AB097610D.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto5.umap'
+[2018.03.19-09.59.43:960][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto5.umap
+[2018.03.19-09.59.43:965][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 1.149
+[2018.03.19-09.59.43:965][165]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.149
+[2018.03.19-10.02.04:290][ 90]BlueprintLog: New page: Compile Maestro
+[2018.03.19-10.02.05:786][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-10.02.06:054][122]LogSavePackage: Save=253.59ms
+[2018.03.19-10.02.06:054][122]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroC1224B55442CE245F45D8286179FA3D0.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-10.02.06:058][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-10.05.41:153][389]BlueprintLog: New page: Compile Maestro
+[2018.03.19-10.05.42:402][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/BLUEPRINTS/Maestro" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset" SILENT=true
+[2018.03.19-10.05.42:690][407]LogSavePackage: Save=263.75ms
+[2018.03.19-10.05.42:691][407]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/MaestroDD8D5A804E87132132CB08AEF0D70FF4.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset'
+[2018.03.19-10.05.42:697][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/BLUEPRINTS/Maestro.uasset
+[2018.03.19-10.05.44:921][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.19-10.05.44:991][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-10.05.44:992][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.19-10.05.44:992][529]PIE: New page: PIE session: Mapa (Mar 19, 2018, 12:05:44 PM)
+[2018.03.19-10.05.44:992][529]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.03.19-10.05.45:033][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040537s)
+[2018.03.19-10.05.45:034][529]LogAIModule: Creating AISystem for world Mapa
+[2018.03.19-10.05.45:035][529]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.03.19-10.05.45:035][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.042013s)
+[2018.03.19-10.05.45:062][529]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.19-10.05.45:141][529]LogInit: FAudioDevice initialized.
+[2018.03.19-10.05.45:192][529]LogLoad: Game class is 'MyGameModeBP_C'
+[2018.03.19-10.05.45:201][529]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.03.19-11.05.45
+[2018.03.19-10.05.45:202][529]LogWorld: Bringing up level for play took: 0.009814
+[2018.03.19-10.05.45:218][529]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa -0.063
+[2018.03.19-10.05.45:219][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-10.06.06:454][794]LogBlueprintUserMessages: [MainCharBP_C_0] Maestro
+[2018.03.19-10.06.08:305][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-10.06.08:376][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel' has LevelScriptBlueprint '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa' with GeneratedClass '/Game/NUESTRO/Nivel/Mapa.Mapa_C' with ClassGeneratedBy '/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Mapa'
+[2018.03.19-10.06.09:281][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.19-10.06.10:374][955]LogSavePackage: Save=1043.23ms
+[2018.03.19-10.06.10:374][955]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa8241F94F43A488F02520E19211D750EB.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.03.19-10.06.10:381][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.03.19-10.06.10:444][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa_BuiltData" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset" SILENT=true
+[2018.03.19-10.06.11:670][955]LogSavePackage: Save=1178.87ms
+[2018.03.19-10.06.11:670][955]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_BuiltDataDF2C9AD545D0E5B18B000FA9E2A178FB.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset'
+[2018.03.19-10.06.11:675][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa_BuiltData.uasset
+[2018.03.19-10.12.47:845][768]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.19-10.12.48:257][769]Cmd: QUIT_EDITOR
+[2018.03.19-10.12.48:435][769]LogExit: Preparing to exit.
+[2018.03.19-10.12.49:873][769]LogDirectoryWatcher: A directory notification for 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/' was aborted.
+[2018.03.19-10.12.50:080][769]LogExit: Editor shut down
+[2018.03.19-10.12.50:136][769]LogExit: Transaction tracking system shut down
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.19-10.12.50:490][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.19-10.12.51:240][769]LogExit: Object subsystem successfully closed.
+[2018.03.19-10.12.51:345][769]LogD3D11RHI: Shutdown
+[2018.03.19-10.12.51:345][769]LogD3D11RHI: CleanupD3DDevice
+[2018.03.19-10.12.51:359][769]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.19-10.12.51:384][769]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.03.19-10.12.51:385][769]LogModuleManager: Shutting down and abandoning module DataTableEditor (552)
+[2018.03.19-10.12.51:385][769]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.19-10.12.51:385][769]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.19-10.12.51:385][769]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.19-10.12.51:385][769]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.19-10.12.51:386][769]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.19-10.12.51:397][769]LogDirectoryWatcher: A directory notification for 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Collections/' was aborted.
+[2018.03.19-10.12.51:397][769]LogDirectoryWatcher: A directory notification for 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Developers/SMC/Collections/' was aborted.
+[2018.03.19-10.12.51:397][769]LogDirectoryWatcher: A directory notification for 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Collections/' was aborted.
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.19-10.12.51:397][769]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.19-10.12.51:398][769]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.19-10.12.51:399][769]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.19-10.12.51:400][769]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.19-10.12.51:400][769]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.19-10.12.51:400][769]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.19-10.12.51:400][769]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.19-10.12.51:400][769]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.19-10.12.51:605][769]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.19-10.12.51:606][769]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.19-10.12.51:607][769]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.19-10.12.51:607][769]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.19-10.12.51:608][769]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.19-10.12.51:663][769]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.19-10.12.51:663][769]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.19-10.12.51:663][769]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.19-10.12.51:664][769]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.19-10.12.51:684][769]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.19-10.12.51:686][769]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.19-10.12.51:687][769]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.19-10.12.51:687][769]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.19-10.12.51:687][769]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.19-10.12.51:687][769]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.19-10.12.51:687][769]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.19-10.12.51:898][769]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.19-10.12.51:899][769]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.19-10.12.51:900][769]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.19-10.12.51:900][769]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.19-10.12.51:905][769]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.19-10.12.51:905][769]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.19-10.12.51:905][769]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.19-10.12.51:906][769]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.19-10.12.52:007][769]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.19-10.12.52:108][769]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.19-10.12.52:113][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.19-10.12.52:113][769]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.19-10.12.52:113][769]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.19-10.12.52:114][769]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.19-10.12.52:120][769]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.19-10.12.52:120][769]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.19-10.12.52:120][769]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.19-10.12.52:121][769]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.19-10.12.52:126][769]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.19-10.12.52:138][769]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.19-10.12.52:138][769]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.19-10.12.52:139][769]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.19-10.12.52:198][769]LogDerivedDataCache: Shutdown
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.19-10.12.52:198][769]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.19-10.12.52:199][769]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.19-10.12.52:200][769]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.19-10.12.52:201][769]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.19-10.12.52:202][769]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.19-10.12.52:203][769]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.19-10.12.52:203][769]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.19-10.12.52:203][769]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6933671-4A7F-3364-0129-7097013A1959%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0b7fbc834d5aeec7251ef4975218c966%7Cbbe1fca2095942bf92deeac10b4811fd%7Cff8d1ba8-93fd-4616-bd74-8237e3593ac7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.19-10.12.52:227][769]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.19-10.12.52:231][769]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.19-10.12.52:231][769]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.19-10.12.52:231][769]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.19-10.12.52:231][769]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.19-10.12.52:232][769]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.19-10.12.52:232][769]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.19-10.12.52:232][769]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.19-10.12.52:245][769]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.19-10.12.52:246][769]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.19-10.12.52:251][769]LogExit: Exiting.
+[2018.03.19-10.12.52:307][769]Log file closed, 03/19/18 11:12:52
