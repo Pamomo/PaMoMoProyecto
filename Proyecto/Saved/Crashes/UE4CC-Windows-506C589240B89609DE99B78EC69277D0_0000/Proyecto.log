@@ -1,0 +1,1279 @@
+﻿Log file open, 02/13/18 18:11:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Proyecto
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-236949532) SRandInit(-236949532).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.216631
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.13-17.11.20:091][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-17.11.20:091][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.13-17.11.20:108][  0]LogInit: Computer: DESKTOP-8SNKBL5
+[2018.02.13-17.11.20:108][  0]LogInit: User: SMC
+[2018.02.13-17.11.20:108][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.13-17.11.20:108][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.02.13-17.11.20:109][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.13-17.11.20:109][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.13-17.11.20:109][  0]LogMemory: Process Physical Memory: 272.46 MB used, 272.46 MB peak
+[2018.02.13-17.11.20:109][  0]LogMemory: Process Virtual Memory: 270.00 MB used, 270.00 MB peak
+[2018.02.13-17.11.20:109][  0]LogMemory: Physical Memory: 3180.86 MB used,  4931.86 MB free, 8112.72 MB total
+[2018.02.13-17.11.20:109][  0]LogMemory: Virtual Memory: 644.38 MB used,  4931.86 MB free, 134217728.00 MB total
+[2018.02.13-17.11.20:316][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.02.13-17.11.20:316][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.02.13-17.11.20:955][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.13-17.11.21:334][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.13-17.11.21:368][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.02.13-17.11.21:369][  0]LogD3D11RHI:       2017/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.13-17.11.21:378][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.13-17.11.21:378][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.13-17.11.21:380][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.13-17.11.21:380][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.13-17.11.21:380][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.13-17.11.21:386][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.13-17.11.21:386][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.02.13-17.11.21:386][  0]LogWindows: EnumDisplayDevices:
+[2018.02.13-17.11.21:386][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.02.13-17.11.21:387][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.13-17.11.21:387][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.13-17.11.21:387][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.13-17.11.21:387][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.02.13-17.11.21:387][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.13-17.11.21:387][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.13-17.11.21:387][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.02.13-17.11.21:406][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.13-17.11.21:418][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.13-17.11.21:419][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Intermediate/Shaders/WorkingDirectory/12768/).
+[2018.02.13-17.11.21:420][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SMC/AppData/Local/Temp/UnrealShaderWorkingDir/CBF383EE47BB95AB4563C58E370BCB20/'.
+[2018.02.13-17.11.21:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.13-17.11.22:858][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.13-17.11.22:933][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.13-17.11.23:006][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.13-17.11.23:081][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.13-17.11.23:155][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.13-17.11.23:230][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.13-17.11.23:304][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.13-17.11.23:378][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.13-17.11.23:441][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.13-17.11.23:518][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.13-17.11.23:590][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.13-17.11.23:661][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.13-17.11.23:733][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.13-17.11.23:805][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.13-17.11.23:962][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.13-17.11.23:962][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.13-17.11.24:034][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.13-17.11.24:090][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.13-17.11.24:213][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.13-17.11.24:254][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.13-17.11.24:327][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.13-17.11.24:399][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.13-17.11.24:471][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.13-17.11.24:546][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.13-17.11.24:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.13-17.11.25:218][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.13-17.11.25:346][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-17.11.25:347][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.13-17.11.25:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.13-17.11.25:347][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.13-17.11.25:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.13-17.11.25:347][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.13-17.11.25:375][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.13-17.11.25:388][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SMC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.13-17.11.25:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.13-17.11.25:405][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.13-17.11.25:406][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-17.11.25:406][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-17.11.25:967][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-17.11.26:466][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.13-17.11.26:524][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.13-17.11.26:524][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.13-17.11.26:524][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.13-17.11.26:524][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.13-17.11.26:524][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.13-17.11.26:561][  0]LogNetVersion: Proyecto , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1292859624)
+[2018.02.13-17.11.26:790][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2018.02.13-17.11.27:507][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.043101 seconds
+[2018.02.13-17.11.27:515][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.02.13-17.11.27:515][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.02.13-17.11.27:515][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.13-17.11.27:593][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.13-17.11.31:758][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.13-17.11.31:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.13-17.11.32:815][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.13-17.11.33:457][  0]SourceControl: Source control is disabled
+[2018.02.13-17.11.33:457][  0]SourceControl: Source control is disabled
+[2018.02.13-17.11.33:538][  0]SourceControl: Source control is disabled
+[2018.02.13-17.11.33:619][  0]SourceControl: Source control is disabled
+[2018.02.13-17.11.34:855][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.13-17.11.35:252][  0]LogOcInput: OculusInput pre-init called
+[2018.02.13-17.11.35:683][  0]LogEngine: Initializing Engine...
+[2018.02.13-17.11.35:687][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.13-17.11.36:035][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.13-17.11.36:035][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.13-17.11.36:228][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.13-17.11.36:239][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-17.11.36:378][  0]LogInit: FAudioDevice initialized.
+[2018.02.13-17.11.36:482][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/SMC/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-17.11.36:504][  0]LogInit: Texture streaming: Enabled
+[2018.02.13-17.11.36:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.13-17.11.36:830][  0]LogInit: Transaction tracking system initialized
+[2018.02.13-17.11.37:279][  0]BlueprintLog: New page: Editor Load
+[2018.02.13-17.11.38:621][  0]LocalizationService: Localization service is disabled
+[2018.02.13-17.11.39:683][  0]LogConsoleResponse: Display: 
+[2018.02.13-17.11.39:935][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.13-17.11.39:935][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.13-17.11.39:935][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.13-17.11.40:404][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/' took 0.01s
+[2018.02.13-17.11.41:635][  0]SourceControl: Source control is disabled
+[2018.02.13-17.11.41:637][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.02.13-17.11.41:649][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.13-17.11.41:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.13-17.11.41:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.13-17.11.41:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.13-17.11.41:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.13-17.11.41:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.13-17.11.41:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.13-17.11.41:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.13-17.11.41:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.13-17.11.41:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.13-17.11.41:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.13-17.11.41:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.13-17.11.41:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.13-17.11.41:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.13-17.11.41:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.13-17.11.41:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.13-17.11.41:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.13-17.11.41:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.13-17.11.41:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.13-17.11.41:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.13-17.11.41:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.13-17.11.41:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.13-17.11.41:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.13-17.11.41:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.13-17.11.41:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.13-17.11.41:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.13-17.11.41:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.13-17.11.41:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.13-17.11.41:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.13-17.11.41:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.13-17.11.42:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.13-17.11.42:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.13-17.11.42:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.13-17.11.42:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.13-17.11.42:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.13-17.11.42:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.13-17.11.42:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.13-17.11.42:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.13-17.11.42:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.13-17.11.42:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.13-17.11.42:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.13-17.11.42:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.13-17.11.42:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.13-17.11.42:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.13-17.11.42:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.13-17.11.42:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.13-17.11.42:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.13-17.11.42:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.13-17.11.42:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.13-17.11.42:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.13-17.11.42:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.13-17.11.42:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.13-17.11.42:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.13-17.11.42:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.13-17.11.42:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.13-17.11.42:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.13-17.11.42:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.13-17.11.42:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.13-17.11.42:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.13-17.11.42:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.13-17.11.42:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.13-17.11.42:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.13-17.11.42:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.13-17.11.42:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.13-17.11.42:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.13-17.11.42:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.13-17.11.42:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.13-17.11.42:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.13-17.11.42:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.13-17.11.43:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.13-17.11.43:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.13-17.11.43:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.13-17.11.43:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.13-17.11.43:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.13-17.11.43:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.13-17.11.43:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.13-17.11.43:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.13-17.11.43:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.13-17.11.43:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.13-17.11.43:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.13-17.11.43:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.13-17.11.43:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.13-17.11.43:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.13-17.11.43:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.13-17.11.43:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.13-17.11.43:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.13-17.11.43:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.13-17.11.43:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.13-17.11.43:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.13-17.11.43:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.13-17.11.43:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.13-17.11.43:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.13-17.11.43:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.13-17.11.43:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.13-17.11.43:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.13-17.11.43:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.13-17.11.43:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.13-17.11.43:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.13-17.11.43:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.13-17.11.43:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.13-17.11.43:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.13-17.11.43:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.13-17.11.43:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.13-17.11.43:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.13-17.11.43:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.13-17.11.43:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.13-17.11.43:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.13-17.11.43:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.13-17.11.43:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.13-17.11.43:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.13-17.11.43:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.13-17.11.43:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.13-17.11.43:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.13-17.11.43:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.13-17.11.43:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.13-17.11.43:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.13-17.11.43:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.13-17.11.43:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.13-17.11.43:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.13-17.11.43:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.13-17.11.43:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.13-17.11.43:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.13-17.11.43:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.13-17.11.43:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.13-17.11.43:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.13-17.11.43:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.13-17.11.43:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.13-17.11.43:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.13-17.11.43:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.13-17.11.43:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.13-17.11.43:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.13-17.11.43:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.13-17.11.43:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.13-17.11.43:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.13-17.11.43:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.13-17.11.43:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.13-17.11.43:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.13-17.11.43:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.13-17.11.44:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.13-17.11.44:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.13-17.11.44:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.13-17.11.44:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.13-17.11.44:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.13-17.11.44:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.13-17.11.44:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.13-17.11.44:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.13-17.11.44:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.13-17.11.44:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.13-17.11.44:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.13-17.11.44:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.13-17.11.44:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.13-17.11.44:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.13-17.11.44:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.13-17.11.44:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.13-17.11.44:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.13-17.11.44:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.13-17.11.44:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.13-17.11.44:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.13-17.11.44:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.13-17.11.44:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.13-17.11.44:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.13-17.11.44:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.13-17.11.44:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.13-17.11.44:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.13-17.11.44:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.13-17.11.44:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.13-17.11.44:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.13-17.11.44:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.13-17.11.44:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.13-17.11.44:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.13-17.11.44:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.13-17.11.44:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.13-17.11.44:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.13-17.11.44:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.13-17.11.44:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.13-17.11.44:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.13-17.11.44:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.13-17.11.44:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.13-17.11.44:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.13-17.11.44:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.13-17.11.44:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.13-17.11.44:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.13-17.11.44:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.13-17.11.44:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.13-17.11.44:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.13-17.11.44:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.13-17.11.44:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.13-17.11.44:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.13-17.11.44:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.13-17.11.45:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.13-17.11.45:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.13-17.11.45:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.13-17.11.45:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.13-17.11.45:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.13-17.11.45:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.13-17.11.45:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.13-17.11.45:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.13-17.11.45:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.13-17.11.45:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.13-17.11.45:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.13-17.11.45:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.13-17.11.45:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.13-17.11.45:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.13-17.11.45:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.13-17.11.45:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.13-17.11.45:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.13-17.11.45:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.13-17.11.45:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.13-17.11.45:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.13-17.11.45:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.13-17.11.45:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.13-17.11.45:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.13-17.11.45:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.13-17.11.45:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.13-17.11.45:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.13-17.11.45:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.13-17.11.45:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.13-17.11.45:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.13-17.11.45:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.13-17.11.45:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.13-17.11.45:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.13-17.11.46:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.13-17.11.46:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.13-17.11.46:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.13-17.11.46:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.13-17.11.46:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.13-17.11.46:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.13-17.11.46:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.13-17.11.46:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.13-17.11.46:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.13-17.11.46:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.13-17.11.46:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.13-17.11.46:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.13-17.11.46:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.13-17.11.46:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.13-17.11.46:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.13-17.11.47:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.13-17.11.47:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.13-17.11.47:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.13-17.11.47:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.13-17.11.47:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.13-17.11.47:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.13-17.11.47:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.13-17.11.47:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.13-17.11.47:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.13-17.11.47:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.13-17.11.47:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.13-17.11.47:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.13-17.11.47:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.13-17.11.47:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.13-17.11.47:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.13-17.11.47:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.13-17.11.48:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.13-17.11.48:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.13-17.11.48:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.13-17.11.48:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.13-17.11.48:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.13-17.11.48:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.13-17.11.48:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.13-17.11.48:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.13-17.11.48:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.13-17.11.48:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.13-17.11.48:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.13-17.11.48:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.13-17.11.48:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.13-17.11.48:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.13-17.11.48:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.13-17.11.48:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.13-17.11.48:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.13-17.11.48:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.13-17.11.48:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.13-17.11.48:466][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-17.11.48:595][  0]LogSavePackage: Save=21.34ms
+[2018.02.13-17.11.48:595][  0]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Floor_400x400D410AC93483BC1B577B1A89115A3B6C0.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.13-17.11.48:599][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.13-17.11.48:599][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.13-17.11.48:605][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-17.11.48:606][  0]LightingResults: New page: Lighting Build
+[2018.02.13-17.11.48:678][  0]MapCheck: New page: Map Check
+[2018.02.13-17.11.48:678][  0]LightingResults: New page: Lighting Build
+[2018.02.13-17.11.49:314][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.13-17.11.49:329][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-17.11.49:347][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-17.11.49:423][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.739ms to complete.
+[2018.02.13-17.11.49:423][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.818
+[2018.02.13-17.11.49:474][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.13-17.11.49:584][  0]LogCollectionManager: Loaded 0 collections in 0.002085 seconds
+[2018.02.13-17.11.49:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Collections/' took 0.01s
+[2018.02.13-17.11.49:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Developers/SMC/Collections/' took 0.01s
+[2018.02.13-17.11.49:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SMC/Documents/Unreal Projects/Proyecto/Content/Collections/' took 0.01s
+[2018.02.13-17.11.49:693][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.13-17.11.49:706][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2363 classes and 519 folders.
+[2018.02.13-17.11.49:799][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.13-17.11.49:848][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.13-17.11.49:909][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.13-17.11.49:932][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-17.11.49:936][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.13-17.11.49:946][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.13-17.11.50:006][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-17.11.50:069][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-17.11.50:271][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.13-17.11.50:272][  0]LogLoad: (Engine Initialization) Total time: 33.25 seconds
+[2018.02.13-17.11.50:272][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.13-17.11.50:272][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.13-17.11.50:272][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.13-17.11.50:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.13-17.11.50:644][  1]LogAssetRegistry: Asset discovery search completed in 23.8759 seconds
+[2018.02.13-17.11.50:647][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.13-17.11.50:647][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.02.13-17.12.59:649][620]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-17.13.01:873][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.13-17.13.01:902][620]LogSavePackage: Save=12.54ms
+[2018.02.13-17.13.01:902][620]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa596B559745088B68BA78B487F386C017.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap'
+[2018.02.13-17.13.01:907][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap
+[2018.02.13-17.13.01:907][620]LogFileHelpers: Saving map 'Mapa' took 0.116
+[2018.02.13-17.13.01:911][620]Cmd: MAP LOAD FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-17.13.01:911][620]LightingResults: New page: Lighting Build
+[2018.02.13-17.13.01:913][620]LoadErrors: New page: Loading map: Mapa.umap
+[2018.02.13-17.13.01:915][620]MapCheck: New page: Map Check
+[2018.02.13-17.13.01:916][620]LightingResults: New page: Lighting Build
+[2018.02.13-17.13.01:936][620]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-17.13.01:936][620]LogAIModule: Creating AISystem for world Mapa
+[2018.02.13-17.13.01:951][620]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-17.13.01:977][620]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-17.13.02:051][620]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.483ms to complete.
+[2018.02.13-17.13.02:051][620]LogFileHelpers: Loading map 'Mapa' took 0.143
+[2018.02.13-17.14.08:083][945]LogEditorViewport: Clicking Background
+[2018.02.13-17.14.39:339][439]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.02.13-17.16.23:178][ 53]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.02.13-17.16.23:207][ 53]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X512)
+[2018.02.13-17.16.23:214][ 53]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2018.02.13-17.16.23:223][ 53]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.02.13-17.16.56:294][994]LogEditorActor: Deleted Actor: Landscape
+[2018.02.13-17.16.56:359][994]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2018.02.13-17.16.58:627][129]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.02.13-17.17.03:629][347]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2018.02.13-17.17.03:649][347]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2018.02.13-17.17.03:668][347]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2018.02.13-17.17.03:690][347]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2018.02.13-17.17.03:710][347]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2018.02.13-17.17.03:731][347]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2018.02.13-17.17.03:752][347]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2018.02.13-17.17.03:772][347]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2018.02.13-17.17.03:791][347]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2018.02.13-17.17.03:810][347]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2018.02.13-17.17.03:829][347]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2018.02.13-17.17.03:849][347]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2018.02.13-17.17.03:871][347]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2018.02.13-17.17.03:889][347]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2018.02.13-17.17.03:908][347]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2018.02.13-17.17.03:929][347]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2018.02.13-17.17.31:024][320]LogEditorActor: Deleted Actor: Landscape
+[2018.02.13-17.17.31:294][320]LogEditorActor: Deleted 1 Actors (0.309 secs)
+[2018.02.13-17.17.32:605][397]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2018.02.13-17.18.23:523][212]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2018.02.13-17.18.23:546][212]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2018.02.13-17.18.23:570][212]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2018.02.13-17.18.23:592][212]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2018.02.13-17.18.23:615][212]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2018.02.13-17.18.23:637][212]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2018.02.13-17.18.23:661][212]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2018.02.13-17.18.23:682][212]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2018.02.13-17.18.23:705][212]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2018.02.13-17.18.23:731][212]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2018.02.13-17.18.23:753][212]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2018.02.13-17.18.23:776][212]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2018.02.13-17.18.23:799][212]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 512X512)
+[2018.02.13-17.18.23:820][212]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 512X512)
+[2018.02.13-17.18.23:843][212]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 512X512)
+[2018.02.13-17.18.23:864][212]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2018.02.13-17.20.02:600][338]LogSlate: Took 0.007143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.13-17.21.36:015][ 38]Cmd: TRANSACTION UNDO
+[2018.02.13-17.21.36:015][ 38]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.02.13-17.21.36:374][ 38]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-17.21.48:029][722]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.13-17.21.48:156][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-17.21.48:157][722]PIE: New page: PIE session: Mapa (Feb 13, 2018, 7:21:48 PM)
+[2018.02.13-17.21.48:157][722]LogPlayLevel: Creating play world package: /Game/NUESTRO/Nivel/UEDPIE_0_Mapa
+[2018.02.13-17.21.48:368][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211245s)
+[2018.02.13-17.21.48:369][722]LogAIModule: Creating AISystem for world Mapa
+[2018.02.13-17.21.48:369][722]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2018.02.13-17.21.48:370][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NUESTRO/Nivel/Mapa.Mapa to /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa (0.213008s)
+[2018.02.13-17.21.48:392][722]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-17.21.48:471][722]LogInit: FAudioDevice initialized.
+[2018.02.13-17.21.48:526][722]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.13-17.21.48:574][722]LogWorld: Bringing World /Game/NUESTRO/Nivel/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2018.02.13-18.21.48
+[2018.02.13-17.21.48:582][722]LogWorld: Bringing up level for play took: 0.053962
+[2018.02.13-17.21.48:645][722]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.02.13-17.21.48:649][722]PIE: Play in editor start time for /Game/NUESTRO/Nivel/UEDPIE_0_Mapa 1.49
+[2018.02.13-17.22.25:073][876]LogEditorActor: Deleted Actor: Landscape
+[2018.02.13-17.22.25:380][876]LogEditorActor: Deleted 1 Actors (0.361 secs)
+[2018.02.13-17.22.27:182][982]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2018.02.13-17.22.35:245][444]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 512X512)
+[2018.02.13-17.22.35:269][444]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 512X512)
+[2018.02.13-17.22.35:294][444]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 512X512)
+[2018.02.13-17.22.35:320][444]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 512X512)
+[2018.02.13-17.23.48:450][681]LogSavePackage: Save=1197.56ms
+[2018.02.13-17.23.48:450][681]LogSavePackage: Moving '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Mapa_Auto1F84623E54CA35DECB6206195FCBCF192.tmp' to '../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto1.umap'
+[2018.02.13-17.23.48:452][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Saved/Autosaves/Game/NUESTRO/Nivel/Mapa_Auto1.umap
+[2018.02.13-17.23.48:461][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NUESTRO/Nivel/Mapa' took 1.247
+[2018.02.13-17.23.48:461][681]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.247
+[2018.02.13-17.25.07:040][314]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2018.02.13-17.25.07:062][314]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2018.02.13-17.25.07:065][314]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2018.02.13-17.25.07:088][314]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2018.02.13-17.25.07:091][314]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2018.02.13-17.25.07:114][314]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2018.02.13-17.25.07:116][314]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2018.02.13-17.25.07:138][314]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2018.02.13-17.25.07:141][314]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2018.02.13-17.25.07:163][314]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2018.02.13-17.25.07:165][314]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2018.02.13-17.25.07:188][314]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2018.02.13-17.25.07:191][314]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2018.02.13-17.25.07:214][314]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2018.02.13-17.25.07:222][314]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2018.02.13-17.25.07:244][314]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2018.02.13-17.25.07:247][314]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2018.02.13-17.25.07:272][314]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2018.02.13-17.25.07:275][314]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2018.02.13-17.25.07:297][314]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2018.02.13-17.25.07:300][314]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2018.02.13-17.25.07:323][314]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2018.02.13-17.25.07:326][314]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2018.02.13-17.25.07:349][314]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2018.02.13-17.25.07:352][314]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2018.02.13-17.25.07:374][314]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2018.02.13-17.25.07:376][314]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2018.02.13-17.25.07:399][314]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2018.02.13-17.25.07:402][314]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.02.13-17.25.07:425][314]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.02.13-17.25.07:428][314]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2018.02.13-17.25.07:451][314]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2018.02.13-17.25.07:454][314]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.02.13-17.25.07:477][314]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.02.13-17.25.07:480][314]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2018.02.13-17.25.07:503][314]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2018.02.13-17.25.07:505][314]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.02.13-17.25.07:527][314]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.02.13-17.25.07:529][314]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2018.02.13-17.25.07:551][314]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2018.02.13-17.25.07:554][314]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2018.02.13-17.25.07:579][314]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2018.02.13-17.25.07:582][314]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2018.02.13-17.25.07:605][314]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2018.02.13-17.25.07:608][314]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2018.02.13-17.25.07:631][314]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2018.02.13-17.25.07:634][314]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2018.02.13-17.25.07:656][314]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2018.02.13-17.25.07:658][314]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2018.02.13-17.25.07:680][314]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2018.02.13-17.25.07:683][314]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2018.02.13-17.25.07:705][314]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2018.02.13-17.25.07:708][314]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2018.02.13-17.25.07:730][314]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2018.02.13-17.25.07:733][314]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2018.02.13-17.25.07:755][314]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2018.02.13-17.25.07:758][314]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2018.02.13-17.25.07:781][314]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2018.02.13-17.25.07:783][314]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2018.02.13-17.25.07:808][314]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2018.02.13-17.25.07:811][314]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2018.02.13-17.25.07:833][314]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2018.02.13-17.25.07:836][314]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2018.02.13-17.25.07:857][314]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2018.02.13-17.25.07:860][314]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2018.02.13-17.25.07:883][314]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2018.02.13-17.25.07:885][314]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2018.02.13-17.25.07:907][314]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2018.02.13-17.25.07:910][314]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2018.02.13-17.25.07:931][314]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2018.02.13-17.25.07:934][314]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2018.02.13-17.25.07:955][314]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2018.02.13-17.25.07:957][314]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2018.02.13-17.25.07:979][314]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2018.02.13-17.25.07:982][314]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2018.02.13-17.25.08:006][314]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2018.02.13-17.25.08:009][314]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2018.02.13-17.25.08:031][314]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2018.02.13-17.25.08:034][314]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2018.02.13-17.25.08:057][314]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2018.02.13-17.25.08:060][314]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2018.02.13-17.25.08:081][314]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2018.02.13-17.25.08:084][314]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2018.02.13-17.25.08:106][314]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2018.02.13-17.25.08:109][314]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2018.02.13-17.25.08:130][314]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2018.02.13-17.25.08:133][314]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2018.02.13-17.25.08:154][314]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2018.02.13-17.25.08:157][314]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2018.02.13-17.25.08:180][314]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2018.02.13-17.25.08:183][314]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2018.02.13-17.25.08:204][314]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2018.02.13-17.25.08:207][314]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2018.02.13-17.25.08:230][314]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2018.02.13-17.25.08:233][314]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2018.02.13-17.25.08:255][314]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2018.02.13-17.25.08:258][314]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2018.02.13-17.25.08:280][314]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2018.02.13-17.25.08:283][314]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2018.02.13-17.25.08:304][314]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2018.02.13-17.25.08:307][314]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2018.02.13-17.25.08:330][314]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2018.02.13-17.25.08:332][314]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2018.02.13-17.25.08:356][314]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2018.02.13-17.25.08:359][314]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2018.02.13-17.25.08:383][314]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2018.02.13-17.25.08:386][314]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2018.02.13-17.25.08:411][314]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2018.02.13-17.25.08:414][314]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2018.02.13-17.25.08:436][314]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2018.02.13-17.25.08:439][314]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2018.02.13-17.25.08:462][314]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2018.02.13-17.25.08:469][314]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2018.02.13-17.25.08:492][314]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2018.02.13-17.25.08:495][314]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2018.02.13-17.25.08:518][314]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2018.02.13-17.25.08:521][314]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2018.02.13-17.25.08:545][314]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2018.02.13-17.25.08:548][314]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2018.02.13-17.25.08:573][314]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2018.02.13-17.25.08:577][314]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2018.02.13-17.25.08:600][314]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2018.02.13-17.25.08:602][314]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2018.02.13-17.25.08:624][314]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2018.02.13-17.25.08:627][314]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2018.02.13-17.25.08:649][314]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2018.02.13-17.25.08:656][314]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2018.02.13-17.25.08:679][314]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2018.02.13-17.25.08:801][321]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2018.02.13-17.25.08:821][321]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2018.02.13-17.25.09:342][352]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2018.02.13-17.25.09:361][352]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2018.02.13-17.25.09:734][374]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2018.02.13-17.25.09:753][374]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2018.02.13-17.25.10:064][392]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2018.02.13-17.25.10:084][392]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2018.02.13-17.25.10:375][409]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2018.02.13-17.25.10:396][409]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2018.02.13-17.25.10:687][426]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2018.02.13-17.25.10:708][426]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2018.02.13-17.25.11:322][462]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2018.02.13-17.25.11:340][462]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2018.02.13-17.25.11:342][462]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2018.02.13-17.25.11:360][462]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2018.02.13-17.25.11:363][462]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2018.02.13-17.25.11:380][462]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2018.02.13-17.25.11:383][462]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2018.02.13-17.25.11:400][462]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2018.02.13-17.25.11:403][462]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2018.02.13-17.25.11:420][462]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2018.02.13-17.25.11:423][462]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2018.02.13-17.25.11:439][462]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2018.02.13-17.25.11:442][462]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2018.02.13-17.25.11:459][462]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2018.02.13-17.25.11:462][462]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2018.02.13-17.25.11:479][462]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2018.02.13-17.25.11:483][462]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2018.02.13-17.25.11:500][462]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2018.02.13-17.25.11:503][462]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2018.02.13-17.25.11:520][462]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2018.02.13-17.25.11:523][462]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2018.02.13-17.25.11:540][462]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2018.02.13-17.25.11:543][462]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2018.02.13-17.25.11:560][462]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2018.02.13-17.25.11:563][462]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2018.02.13-17.25.11:581][462]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2018.02.13-17.25.11:583][462]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2018.02.13-17.25.11:600][462]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2018.02.13-17.25.11:602][462]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2018.02.13-17.25.11:619][462]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2018.02.13-17.25.11:622][462]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2018.02.13-17.25.11:639][462]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2018.02.13-17.25.11:642][462]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2018.02.13-17.25.11:659][462]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2018.02.13-17.25.11:662][462]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2018.02.13-17.25.11:679][462]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2018.02.13-17.25.11:681][462]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2018.02.13-17.25.11:697][462]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2018.02.13-17.25.11:700][462]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2018.02.13-17.25.11:716][462]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2018.02.13-17.25.11:719][462]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2018.02.13-17.25.11:736][462]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2018.02.13-17.25.11:739][462]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2018.02.13-17.25.11:755][462]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2018.02.13-17.25.11:758][462]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2018.02.13-17.25.11:774][462]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2018.02.13-17.25.11:777][462]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2018.02.13-17.25.11:793][462]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2018.02.13-17.25.11:796][462]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2018.02.13-17.25.11:812][462]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2018.02.13-17.25.11:816][462]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2018.02.13-17.25.11:833][462]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2018.02.13-17.25.11:836][462]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2018.02.13-17.25.11:852][462]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2018.02.13-17.25.11:855][462]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2018.02.13-17.25.11:872][462]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2018.02.13-17.25.11:874][462]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2018.02.13-17.25.11:891][462]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2018.02.13-17.25.11:894][462]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2018.02.13-17.25.11:910][462]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2018.02.13-17.25.11:913][462]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2018.02.13-17.25.11:929][462]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2018.02.13-17.25.11:932][462]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2018.02.13-17.25.11:949][462]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2018.02.13-17.25.11:952][462]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2018.02.13-17.25.11:968][462]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2018.02.13-17.25.11:971][462]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2018.02.13-17.25.11:987][462]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2018.02.13-17.25.11:989][462]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2018.02.13-17.25.12:006][462]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2018.02.13-17.25.12:009][462]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2018.02.13-17.25.12:026][462]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2018.02.13-17.25.12:029][462]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2018.02.13-17.25.12:045][462]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2018.02.13-17.25.12:047][462]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2018.02.13-17.25.12:064][462]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2018.02.13-17.25.12:067][462]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2018.02.13-17.25.12:083][462]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2018.02.13-17.25.12:086][462]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2018.02.13-17.25.12:105][462]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2018.02.13-17.25.12:108][462]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2018.02.13-17.25.12:126][462]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2018.02.13-17.25.12:128][462]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2018.02.13-17.25.12:144][462]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2018.02.13-17.25.12:147][462]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2018.02.13-17.25.12:163][462]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2018.02.13-17.25.12:166][462]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2018.02.13-17.25.12:182][462]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2018.02.13-17.25.12:185][462]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2018.02.13-17.25.12:202][462]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2018.02.13-17.25.12:204][462]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2018.02.13-17.25.12:220][462]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2018.02.13-17.25.12:223][462]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2018.02.13-17.25.12:240][462]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2018.02.13-17.25.12:243][462]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2018.02.13-17.25.12:259][462]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2018.02.13-17.25.12:261][462]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2018.02.13-17.25.12:278][462]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2018.02.13-17.25.12:281][462]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2018.02.13-17.25.12:297][462]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2018.02.13-17.25.12:300][462]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2018.02.13-17.25.12:316][462]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2018.02.13-17.25.12:319][462]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2018.02.13-17.25.12:336][462]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2018.02.13-17.25.12:339][462]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2018.02.13-17.25.12:356][462]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2018.02.13-17.25.12:359][462]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2018.02.13-17.25.12:376][462]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2018.02.13-17.25.12:378][462]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2018.02.13-17.25.12:395][462]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2018.02.13-17.25.12:397][462]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2018.02.13-17.25.12:414][462]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2018.02.13-17.25.12:420][462]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2018.02.13-17.25.12:437][462]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2018.02.13-17.25.12:440][462]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2018.02.13-17.25.12:457][462]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2018.02.13-17.25.12:460][462]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2018.02.13-17.25.12:476][462]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2018.02.13-17.25.12:479][462]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2018.02.13-17.25.12:496][462]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2018.02.13-17.25.12:499][462]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2018.02.13-17.25.12:517][462]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2018.02.13-17.25.12:520][462]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2018.02.13-17.25.12:537][462]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2018.02.13-17.25.12:540][462]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2018.02.13-17.25.12:559][462]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2018.02.13-17.25.12:562][462]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2018.02.13-17.25.12:581][462]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2018.02.13-17.25.14:525][578]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2018.02.13-17.25.14:544][578]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2018.02.13-17.25.15:165][615]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2018.02.13-17.25.15:184][615]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2018.02.13-17.25.15:590][639]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2018.02.13-17.25.15:607][639]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2018.02.13-17.25.16:147][671]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2018.02.13-17.25.16:164][671]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2018.02.13-17.25.16:456][688]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2018.02.13-17.25.16:478][688]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2018.02.13-17.25.16:817][708]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2018.02.13-17.25.16:836][708]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2018.02.13-17.25.17:126][725]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2018.02.13-17.25.17:142][725]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2018.02.13-17.25.17:486][745]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2018.02.13-17.25.17:502][745]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2018.02.13-17.25.19:992][894]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2018.02.13-17.25.20:012][894]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2018.02.13-17.25.20:199][905]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2018.02.13-17.25.20:217][905]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2018.02.13-17.25.20:254][907]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2018.02.13-17.25.20:271][907]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2018.02.13-17.25.20:291][908]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2018.02.13-17.25.20:311][908]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2018.02.13-17.25.20:333][909]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2018.02.13-17.25.20:349][909]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2018.02.13-17.25.20:373][910]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2018.02.13-17.25.20:392][910]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2018.02.13-17.25.20:414][911]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2018.02.13-17.25.20:430][911]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2018.02.13-17.25.20:451][912]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2018.02.13-17.25.20:466][912]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2018.02.13-17.25.20:537][916]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2018.02.13-17.25.20:555][916]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2018.02.13-17.25.20:592][918]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2018.02.13-17.25.20:609][918]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2018.02.13-17.25.20:647][920]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2018.02.13-17.25.20:663][920]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2018.02.13-17.25.20:684][921]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2018.02.13-17.25.20:700][921]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2018.02.13-17.25.20:725][922]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2018.02.13-17.25.20:742][922]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2018.02.13-17.25.20:778][924]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2018.02.13-17.25.20:794][924]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2018.02.13-17.25.20:815][925]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2018.02.13-17.25.20:830][925]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2018.02.13-17.25.21:771][981]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2018.02.13-17.25.21:790][981]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2018.02.13-17.25.29:184][424]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2018.02.13-17.25.29:203][424]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2018.02.13-17.25.29:273][428]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2018.02.13-17.25.29:291][428]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2018.02.13-17.25.29:328][430]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2018.02.13-17.25.29:344][430]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2018.02.13-17.25.29:363][431]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2018.02.13-17.25.29:379][431]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2018.02.13-17.25.29:418][433]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2018.02.13-17.25.29:434][433]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2018.02.13-17.25.29:505][437]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2018.02.13-17.25.29:522][437]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2018.02.13-17.25.29:644][444]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2018.02.13-17.25.29:662][444]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2018.02.13-17.25.29:665][444]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2018.02.13-17.25.29:680][444]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2018.02.13-17.25.29:683][444]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2018.02.13-17.25.29:701][444]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2018.02.13-17.25.29:704][444]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2018.02.13-17.25.29:722][444]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2018.02.13-17.25.29:724][444]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2018.02.13-17.25.29:742][444]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2018.02.13-17.25.29:745][444]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2018.02.13-17.25.29:765][444]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2018.02.13-17.25.29:768][444]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2018.02.13-17.25.29:783][444]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2018.02.13-17.25.29:787][444]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2018.02.13-17.25.29:805][444]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2018.02.13-17.25.29:808][444]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2018.02.13-17.25.29:826][444]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2018.02.13-17.25.29:829][444]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2018.02.13-17.25.29:846][444]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2018.02.13-17.25.29:849][444]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2018.02.13-17.25.29:868][444]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2018.02.13-17.25.29:870][444]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2018.02.13-17.25.29:889][444]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2018.02.13-17.25.29:892][444]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2018.02.13-17.25.29:909][444]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2018.02.13-17.25.29:912][444]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2018.02.13-17.25.29:929][444]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2018.02.13-17.25.29:932][444]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2018.02.13-17.25.29:949][444]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2018.02.13-17.25.29:952][444]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2018.02.13-17.25.29:970][444]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2018.02.13-17.25.29:973][444]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2018.02.13-17.25.29:990][444]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2018.02.13-17.25.29:993][444]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2018.02.13-17.25.30:011][444]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2018.02.13-17.25.30:013][444]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2018.02.13-17.25.30:031][444]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2018.02.13-17.25.30:034][444]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2018.02.13-17.25.30:052][444]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2018.02.13-17.25.30:055][444]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2018.02.13-17.25.30:073][444]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2018.02.13-17.25.30:076][444]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2018.02.13-17.25.30:095][444]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2018.02.13-17.25.30:098][444]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2018.02.13-17.25.30:114][444]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2018.02.13-17.25.30:117][444]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2018.02.13-17.25.30:135][444]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2018.02.13-17.25.30:138][444]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.02.13-17.25.30:155][444]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.02.13-17.25.30:158][444]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.02.13-17.25.30:175][444]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.02.13-17.25.30:178][444]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2018.02.13-17.25.30:195][444]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2018.02.13-17.25.30:198][444]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2018.02.13-17.25.30:216][444]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2018.02.13-17.25.30:219][444]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2018.02.13-17.25.30:236][444]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2018.02.13-17.25.30:239][444]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2018.02.13-17.25.30:255][444]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2018.02.13-17.25.30:258][444]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2018.02.13-17.25.30:275][444]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2018.02.13-17.25.30:278][444]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2018.02.13-17.25.30:296][444]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2018.02.13-17.25.30:299][444]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.02.13-17.25.30:318][444]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.02.13-17.25.30:320][444]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.02.13-17.25.30:342][444]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.02.13-17.25.30:345][444]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2018.02.13-17.25.30:364][444]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2018.02.13-17.25.30:367][444]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2018.02.13-17.25.30:387][444]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2018.02.13-17.25.30:390][444]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2018.02.13-17.25.30:409][444]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2018.02.13-17.25.30:413][444]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2018.02.13-17.25.30:431][444]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2018.02.13-17.25.30:434][444]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2018.02.13-17.25.30:454][444]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2018.02.13-17.25.30:456][444]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2018.02.13-17.25.30:475][444]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2018.02.13-17.25.30:478][444]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2018.02.13-17.25.30:496][444]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2018.02.13-17.25.30:499][444]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.02.13-17.25.30:519][444]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.02.13-17.25.30:522][444]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2018.02.13-17.25.30:541][444]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2018.02.13-17.25.30:544][444]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2018.02.13-17.25.30:562][444]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2018.02.13-17.25.30:565][444]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2018.02.13-17.25.30:582][444]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2018.02.13-17.25.30:585][444]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2018.02.13-17.25.30:604][444]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2018.02.13-17.25.30:607][444]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2018.02.13-17.25.30:626][444]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2018.02.13-17.25.30:629][444]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2018.02.13-17.25.30:648][444]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2018.02.13-17.25.30:651][444]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.02.13-17.25.30:670][444]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.02.13-17.25.30:673][444]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.02.13-17.25.30:693][444]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.02.13-17.25.30:696][444]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2018.02.13-17.25.30:715][444]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2018.02.13-17.25.30:718][444]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2018.02.13-17.25.30:739][444]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2018.02.13-17.25.30:742][444]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2018.02.13-17.25.30:762][444]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2018.02.13-17.25.30:765][444]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2018.02.13-17.25.30:784][444]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2018.02.13-17.25.30:787][444]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2018.02.13-17.25.30:807][444]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2018.02.13-17.25.30:809][444]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2018.02.13-17.25.30:829][444]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2018.02.13-17.25.30:832][444]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2018.02.13-17.25.30:852][444]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2018.02.13-17.25.30:854][444]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.02.13-17.25.30:874][444]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.02.13-17.25.30:877][444]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2018.02.13-17.25.30:895][444]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2018.02.13-17.25.30:898][444]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2018.02.13-17.25.30:917][444]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2018.02.13-17.25.30:919][444]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2018.02.13-17.25.30:938][444]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2018.02.13-17.25.30:940][444]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2018.02.13-17.25.30:959][444]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2018.02.13-17.25.30:961][444]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2018.02.13-17.25.30:980][444]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2018.02.13-17.25.30:983][444]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2018.02.13-17.25.31:002][444]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2018.02.13-17.25.31:727][487]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2018.02.13-17.25.31:743][487]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2018.02.13-17.25.32:134][510]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2018.02.13-17.25.32:150][510]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2018.02.13-17.25.32:221][514]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2018.02.13-17.25.32:239][514]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2018.02.13-17.25.32:477][528]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2018.02.13-17.25.32:495][528]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2018.02.13-17.25.32:653][537]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2018.02.13-17.25.32:667][537]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2018.02.13-17.25.32:839][547]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2018.02.13-17.25.32:854][547]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2018.02.13-17.25.33:275][572]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2018.02.13-17.25.33:291][572]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2018.02.13-17.25.33:780][601]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2018.02.13-17.25.33:797][601]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2018.02.13-17.25.33:969][611]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 64X64)
+[2018.02.13-17.25.33:988][611]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 64X64)
+[2018.02.13-17.25.34:150][620]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2018.02.13-17.25.34:165][620]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 64X64)
+[2018.02.13-17.25.34:338][630]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2018.02.13-17.25.34:352][630]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2018.02.13-17.25.34:525][640]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 64X64)
+[2018.02.13-17.25.34:541][640]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 64X64)
+[2018.02.13-17.25.34:879][660]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2018.02.13-17.25.34:894][660]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2018.02.13-17.25.35:068][670]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2018.02.13-17.25.35:082][670]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2018.02.13-17.25.35:255][680]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2018.02.13-17.25.35:271][680]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2018.02.13-17.25.35:444][690]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 64X64)
+[2018.02.13-17.25.35:460][690]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 64X64)
+[2018.02.13-17.25.36:595][758]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.36:595][758]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.36:607][758]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2018.02.13-17.25.36:616][758]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2018.02.13-17.25.36:641][758]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2018.02.13-17.25.36:643][758]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2306) Component already registered.
+[2018.02.13-17.25.36:643][758]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4710) Component already registered.
+[2018.02.13-17.25.36:656][758]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2018.02.13-17.25.36:657][758]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4709) Component already registered.
+[2018.02.13-17.25.36:671][758]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2018.02.13-17.25.36:673][758]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2305) Component already registered.
+[2018.02.13-17.25.36:686][758]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4693) Component already registered.
+[2018.02.13-17.25.37:114][781]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.37:115][781]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.37:128][781]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.02.13-17.25.37:137][781]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.02.13-17.25.37:146][781]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2018.02.13-17.25.37:157][781]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2018.02.13-17.25.37:166][781]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2018.02.13-17.25.37:198][781]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2018.02.13-17.25.37:492][797]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.37:492][797]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.37:506][797]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.02.13-17.25.37:515][797]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.02.13-17.25.37:539][797]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.02.13-17.25.37:541][797]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2227) Component already registered.
+[2018.02.13-17.25.37:541][797]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4631) Component already registered.
+[2018.02.13-17.25.37:556][797]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2018.02.13-17.25.37:557][797]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4630) Component already registered.
+[2018.02.13-17.25.37:572][797]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2018.02.13-17.25.37:575][797]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2226) Component already registered.
+[2018.02.13-17.25.38:009][821]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.38:009][821]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.38:023][821]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.02.13-17.25.38:039][821]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.02.13-17.25.38:050][821]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.02.13-17.25.38:062][821]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2018.02.13-17.25.38:084][821]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2018.02.13-17.25.38:112][821]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2018.02.13-17.25.38:127][821]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2018.02.13-17.25.38:129][821]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4598) Component already registered.
+[2018.02.13-17.25.38:929][867]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.38:929][867]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.38:943][867]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2018.02.13-17.25.38:953][867]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2018.02.13-17.25.38:962][867]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2018.02.13-17.25.38:981][867]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2018.02.13-17.25.39:512][897]Cmd: TRANSACTION UNDO
+[2018.02.13-17.25.39:512][897]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2018.02.13-17.25.39:526][897]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2018.02.13-17.25.39:536][897]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2018.02.13-17.25.39:575][897]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2018.02.13-17.25.39:577][897]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2362) Component already registered.
+[2018.02.13-17.25.39:578][897]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeComponent_2363) Component already registered.
+[2018.02.13-17.25.39:578][897]LogActorComponent: ~FComponentReregisterContext: (/Game/NUESTRO/Nivel/Mapa.Mapa:PersistentLevel.Landscape_3.LandscapeHeightfieldCollisionComponent_4766) Component already registered.
+[2018.02.13-17.25.39:592][897]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2018.02.13-17.25.40:684][960]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 64X64)
+[2018.02.13-17.25.40:700][960]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 64X64)
+[2018.02.13-17.25.41:270][994]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 64X64)
+[2018.02.13-17.25.41:286][994]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 64X64)
+[2018.02.13-17.25.41:606][ 13]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 64X64)
+[2018.02.13-17.25.41:624][ 13]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 64X64)
+[2018.02.13-17.25.41:960][ 33]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 64X64)
+[2018.02.13-17.25.41:978][ 33]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 64X64)
+[2018.02.13-17.25.42:354][ 55]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 64X64)
+[2018.02.13-17.25.42:369][ 55]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 64X64)
+[2018.02.13-17.25.42:691][ 74]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 64X64)
+[2018.02.13-17.25.42:707][ 74]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 64X64)
+[2018.02.13-17.25.42:980][ 90]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2018.02.13-17.25.42:996][ 90]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 64X64)
+[2018.02.13-17.25.43:335][110]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2018.02.13-17.25.43:349][110]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 64X64)
+[2018.02.13-17.25.46:305][285]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 64X64)
+[2018.02.13-17.25.48:785][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NUESTRO/Nivel/Mapa" FILE="../../../../../../Users/SMC/Documents/Unreal Projects/Proyecto/Content/NUESTRO/Nivel/Mapa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
